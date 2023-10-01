@@ -2,41 +2,6 @@
 .Rhistory
 .Rapp.history
 
-# Untracked files
-.CFUserTextEncoding
-.DS_Store
-.RData
-.Rapp.history
-.Rhistory
-.bash_history
-.bash_profile
-.bash_sessions/
-.bidstack-device-id
-.cisco/
-.config/
-.cups/
-.dropbox/
-.gitconfig
-.idlerc/
-.km-vm-store/
-.local/
-.sh_history
-AdobeConnectAppCache/
-Applications/
-Creative Cloud Files/
-Desktop/
-Documents/
-Downloads/
-Dropbox/
-Library/
-Movies/
-Music/
-OneDrive - The University of Nottingham
-Pictures/
-
-RProjects/
-adobeconnectapp.log
-
 # Session Data files
 .RData
 .RDataTmp
